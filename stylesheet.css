@@ -1,0 +1,23 @@
+.title {
+  width: 500px;
+  color: #02ccba;
+  font-size: 70px;
+  padding-left: 1px;
+
+}
+h1{
+  font-size: 40px;
+  color: #ff4a4a
+  background-color:#0F0;
+  width: 400px;
+}
+.header{
+  background-color:#0F0;
+}
+li{
+  float: left;
+  list-style: none;
+}
+a{
+  font-size: 30px;
+}
